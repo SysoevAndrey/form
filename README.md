@@ -7,4 +7,4 @@
 
 **HTML, CSS**.
 
-Результат доступен по [ссылке](https://sysoevandrey.github.io/).
+Результат доступен по [ссылке](https://sysoevandrey.github.io/form).
